@@ -1,0 +1,15 @@
+- pkg:pypi/borgapi@0.1.1
+- pkg:pypi/borgapi@0.1.3.dev1
+- pkg:pypi/borgapi@0.1.3.dev2
+- pkg:pypi/borgapi@0.1.3.dev3
+- pkg:pypi/borgapi@0.1.3.dev4
+- pkg:pypi/borgapi@0.2.0
+- pkg:pypi/borgapi@0.2.1
+- pkg:pypi/borgapi@0.3.0
+- pkg:pypi/borgapi@0.3.1
+- pkg:pypi/borgapi@0.4.0
+- pkg:pypi/borgapi@0.5.0
+- pkg:pypi/borgapi@0.5.1
+- pkg:pypi/borgapi@0.6.0
+- pkg:pypi/borgapi@0.6.1
+- pkg:pypi/borgapi@0.7.0
