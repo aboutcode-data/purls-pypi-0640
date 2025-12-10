@@ -1,0 +1,10 @@
+- pkg:pypi/camunda-external-task-client-python3@1.1.1
+- pkg:pypi/camunda-external-task-client-python3@2.0.0
+- pkg:pypi/camunda-external-task-client-python3@3.0.0
+- pkg:pypi/camunda-external-task-client-python3@3.2.0
+- pkg:pypi/camunda-external-task-client-python3@4.0.0
+- pkg:pypi/camunda-external-task-client-python3@4.1.0
+- pkg:pypi/camunda-external-task-client-python3@4.2.0
+- pkg:pypi/camunda-external-task-client-python3@4.3.0
+- pkg:pypi/camunda-external-task-client-python3@4.4.0
+- pkg:pypi/camunda-external-task-client-python3@4.5.0
