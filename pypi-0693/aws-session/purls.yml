@@ -1,0 +1,14 @@
+- pkg:pypi/aws-session@2.0.0
+- pkg:pypi/aws-session@2.0.1
+- pkg:pypi/aws-session@3.0.1
+- pkg:pypi/aws-session@3.0.2
+- pkg:pypi/aws-session@3.0.3
+- pkg:pypi/aws-session@4.0.0
+- pkg:pypi/aws-session@4.0.1
+- pkg:pypi/aws-session@5.0.0
+- pkg:pypi/aws-session@5.1.0
+- pkg:pypi/aws-session@5.2.0
+- pkg:pypi/aws-session@5.2.1
+- pkg:pypi/aws-session@5.3.0
+- pkg:pypi/aws-session@5.4.0
+- pkg:pypi/aws-session@5.5.0
