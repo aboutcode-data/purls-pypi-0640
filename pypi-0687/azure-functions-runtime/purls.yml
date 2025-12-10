@@ -1,0 +1,12 @@
+- pkg:pypi/azure-functions-runtime@1.0.0
+- pkg:pypi/azure-functions-runtime@1.0.0.dev0
+- pkg:pypi/azure-functions-runtime@1.0.0a1
+- pkg:pypi/azure-functions-runtime@1.0.0a2
+- pkg:pypi/azure-functions-runtime@1.0.0a3
+- pkg:pypi/azure-functions-runtime@1.0.0b1
+- pkg:pypi/azure-functions-runtime@1.0.0b2
+- pkg:pypi/azure-functions-runtime@1.1.0b1
+- pkg:pypi/azure-functions-runtime@1.1.0b2
+- pkg:pypi/azure-functions-runtime@1.1.0b3
+- pkg:pypi/azure-functions-runtime@1.1.0b4
+- pkg:pypi/azure-functions-runtime@1.1.0b4.dev1
