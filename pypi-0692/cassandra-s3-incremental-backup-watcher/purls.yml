@@ -1,0 +1,2 @@
+- pkg:pypi/cassandra-s3-incremental-backup-watcher@0.1.0
+- pkg:pypi/cassandra-s3-incremental-backup-watcher@0.1.1
