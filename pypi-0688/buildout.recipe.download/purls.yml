@@ -1,0 +1,2 @@
+- pkg:pypi/buildout.recipe.download@0.0.1
+- pkg:pypi/buildout.recipe.download@0.0.3
