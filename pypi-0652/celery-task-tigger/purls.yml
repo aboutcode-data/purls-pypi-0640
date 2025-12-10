@@ -1,0 +1,4 @@
+- pkg:pypi/celery-task-tigger@0.1
+- pkg:pypi/celery-task-tigger@0.2
+- pkg:pypi/celery-task-tigger@0.3
+- pkg:pypi/celery-task-tigger@0.4
