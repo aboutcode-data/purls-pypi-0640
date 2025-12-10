@@ -1,0 +1,5 @@
+- pkg:pypi/apache-airflow-backport-providers-email@2020.5.20rc1
+- pkg:pypi/apache-airflow-backport-providers-email@2020.5.20rc2
+- pkg:pypi/apache-airflow-backport-providers-email@2020.5.20rc3
+- pkg:pypi/apache-airflow-backport-providers-email@2020.6.24
+- pkg:pypi/apache-airflow-backport-providers-email@2020.6.24rc1
