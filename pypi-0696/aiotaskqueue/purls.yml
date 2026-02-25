@@ -7,6 +7,7 @@
 - pkg:pypi/aiotaskqueue@0.14.0
 - pkg:pypi/aiotaskqueue@0.14.1
 - pkg:pypi/aiotaskqueue@0.15.0
+- pkg:pypi/aiotaskqueue@0.16.0
 - pkg:pypi/aiotaskqueue@0.2.0
 - pkg:pypi/aiotaskqueue@0.3.0
 - pkg:pypi/aiotaskqueue@0.4.0

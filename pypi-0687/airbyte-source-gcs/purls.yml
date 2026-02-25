@@ -4,6 +4,8 @@
 - pkg:pypi/airbyte-source-gcs@0.10.3
 - pkg:pypi/airbyte-source-gcs@0.10.4
 - pkg:pypi/airbyte-source-gcs@0.10.5
+- pkg:pypi/airbyte-source-gcs@0.10.6
+- pkg:pypi/airbyte-source-gcs@0.10.6.dev202602191326
 - pkg:pypi/airbyte-source-gcs@0.3.6
 - pkg:pypi/airbyte-source-gcs@0.3.7
 - pkg:pypi/airbyte-source-gcs@0.4.0
