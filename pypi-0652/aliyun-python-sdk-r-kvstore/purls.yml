@@ -35,6 +35,7 @@
 - pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.14
 - pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.15
 - pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.16
+- pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.17
 - pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.2
 - pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.3
 - pkg:pypi/aliyun-python-sdk-r-kvstore@2.20.4
