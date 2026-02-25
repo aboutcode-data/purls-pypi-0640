@@ -22,6 +22,8 @@
 - pkg:pypi/calfem-python@3.6.11
 - pkg:pypi/calfem-python@3.6.12
 - pkg:pypi/calfem-python@3.6.13
+- pkg:pypi/calfem-python@3.6.14
+- pkg:pypi/calfem-python@3.6.15
 - pkg:pypi/calfem-python@3.6.2
 - pkg:pypi/calfem-python@3.6.3
 - pkg:pypi/calfem-python@3.6.4
