@@ -94,3 +94,6 @@
 - pkg:pypi/ansible-doctor@8.0.0
 - pkg:pypi/ansible-doctor@8.0.1
 - pkg:pypi/ansible-doctor@8.1.0
+- pkg:pypi/ansible-doctor@8.1.2
+- pkg:pypi/ansible-doctor@8.2.0
+- pkg:pypi/ansible-doctor@8.2.1

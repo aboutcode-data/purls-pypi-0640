@@ -159,6 +159,11 @@
 - pkg:pypi/ansys-fluent-core@0.36.dev1
 - pkg:pypi/ansys-fluent-core@0.37.0
 - pkg:pypi/ansys-fluent-core@0.37.1
+- pkg:pypi/ansys-fluent-core@0.37.2
 - pkg:pypi/ansys-fluent-core@0.37.dev0
 - pkg:pypi/ansys-fluent-core@0.38.dev0
 - pkg:pypi/ansys-fluent-core@0.38.dev2
+- pkg:pypi/ansys-fluent-core@0.38.dev3
+- pkg:pypi/ansys-fluent-core@0.38.dev4
+- pkg:pypi/ansys-fluent-core@0.38.dev5
+- pkg:pypi/ansys-fluent-core@0.38.dev6

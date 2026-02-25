@@ -3,3 +3,6 @@
 - pkg:pypi/ansys-api-modelcenter@0.2.dev0
 - pkg:pypi/ansys-api-modelcenter@0.3.0
 - pkg:pypi/ansys-api-modelcenter@0.3.1
+- pkg:pypi/ansys-api-modelcenter@0.3.2
+- pkg:pypi/ansys-api-modelcenter@0.3.3
+- pkg:pypi/ansys-api-modelcenter@0.3.4
