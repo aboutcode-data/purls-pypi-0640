@@ -30,3 +30,4 @@
 - pkg:pypi/amqpstorm-flask@0.5.1
 - pkg:pypi/amqpstorm-flask@0.5.2
 - pkg:pypi/amqpstorm-flask@0.5.3
+- pkg:pypi/amqpstorm-flask@0.5.4
