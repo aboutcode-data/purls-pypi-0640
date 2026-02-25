@@ -8,3 +8,5 @@
 - pkg:pypi/autosar-e2e@0.6.1
 - pkg:pypi/autosar-e2e@0.7.0
 - pkg:pypi/autosar-e2e@0.7.0rc0
+- pkg:pypi/autosar-e2e@0.8.0.dev0
+- pkg:pypi/autosar-e2e@0.8.0.dev1

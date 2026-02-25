@@ -1,6 +1,7 @@
 - pkg:pypi/avogadro@0.0.0
 - pkg:pypi/avogadro@1.102.0
 - pkg:pypi/avogadro@1.102.1
+- pkg:pypi/avogadro@1.103.0
 - pkg:pypi/avogadro@1.92.0
 - pkg:pypi/avogadro@1.92.1
 - pkg:pypi/avogadro@1.93.0
