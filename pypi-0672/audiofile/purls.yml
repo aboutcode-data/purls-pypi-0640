@@ -28,3 +28,4 @@
 - pkg:pypi/audiofile@1.4.0
 - pkg:pypi/audiofile@1.5.0
 - pkg:pypi/audiofile@1.5.1
+- pkg:pypi/audiofile@1.6.0
