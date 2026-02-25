@@ -74,6 +74,7 @@
 - pkg:pypi/asyncssh@2.20.0
 - pkg:pypi/asyncssh@2.21.0
 - pkg:pypi/asyncssh@2.21.1
+- pkg:pypi/asyncssh@2.22.0
 - pkg:pypi/asyncssh@2.3.0
 - pkg:pypi/asyncssh@2.4.0
 - pkg:pypi/asyncssh@2.4.1
