@@ -15,3 +15,6 @@
 - pkg:pypi/biobb-cmip@4.2.0
 - pkg:pypi/biobb-cmip@5.0.0
 - pkg:pypi/biobb-cmip@5.1.0
+- pkg:pypi/biobb-cmip@5.2.0
+- pkg:pypi/biobb-cmip@5.2.1
+- pkg:pypi/biobb-cmip@5.2.2

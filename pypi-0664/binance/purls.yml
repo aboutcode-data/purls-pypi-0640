@@ -3,6 +3,13 @@
 - pkg:pypi/binance@0.3
 - pkg:pypi/binance@0.3.1
 - pkg:pypi/binance@0.3.10
+- pkg:pypi/binance@0.3.100
+- pkg:pypi/binance@0.3.101
+- pkg:pypi/binance@0.3.102
+- pkg:pypi/binance@0.3.103
+- pkg:pypi/binance@0.3.104
+- pkg:pypi/binance@0.3.105
+- pkg:pypi/binance@0.3.106
 - pkg:pypi/binance@0.3.11
 - pkg:pypi/binance@0.3.12
 - pkg:pypi/binance@0.3.13
@@ -93,3 +100,10 @@
 - pkg:pypi/binance@0.3.90
 - pkg:pypi/binance@0.3.91
 - pkg:pypi/binance@0.3.92
+- pkg:pypi/binance@0.3.93
+- pkg:pypi/binance@0.3.94
+- pkg:pypi/binance@0.3.95
+- pkg:pypi/binance@0.3.96
+- pkg:pypi/binance@0.3.97
+- pkg:pypi/binance@0.3.98
+- pkg:pypi/binance@0.3.99
