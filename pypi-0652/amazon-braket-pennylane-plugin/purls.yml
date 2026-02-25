@@ -84,6 +84,8 @@
 - pkg:pypi/amazon-braket-pennylane-plugin@1.33.4
 - pkg:pypi/amazon-braket-pennylane-plugin@1.33.5
 - pkg:pypi/amazon-braket-pennylane-plugin@1.33.6
+- pkg:pypi/amazon-braket-pennylane-plugin@1.33.7
+- pkg:pypi/amazon-braket-pennylane-plugin@1.34.0
 - pkg:pypi/amazon-braket-pennylane-plugin@1.4.0
 - pkg:pypi/amazon-braket-pennylane-plugin@1.4.1
 - pkg:pypi/amazon-braket-pennylane-plugin@1.4.2

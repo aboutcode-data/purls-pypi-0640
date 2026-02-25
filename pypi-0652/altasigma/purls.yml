@@ -1,3 +1,7 @@
+- pkg:pypi/altasigma@0.0.4.post2
 - pkg:pypi/altasigma@3.10.1
 - pkg:pypi/altasigma@3.10.2
 - pkg:pypi/altasigma@3.10.3
+- pkg:pypi/altasigma@3.10.4
+- pkg:pypi/altasigma@3.11.0
+- pkg:pypi/altasigma@3.11.1
