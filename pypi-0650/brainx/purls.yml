@@ -3,6 +3,9 @@
 - pkg:pypi/brainx@2025.10.20
 - pkg:pypi/brainx@2025.10.8
 - pkg:pypi/brainx@2025.12.2
+- pkg:pypi/brainx@2025.12.25
+- pkg:pypi/brainx@2025.12.26
+- pkg:pypi/brainx@2025.12.27
 - pkg:pypi/brainx@2025.5.11
 - pkg:pypi/brainx@2025.5.22
 - pkg:pypi/brainx@2025.5.31
@@ -20,3 +23,11 @@
 - pkg:pypi/brainx@2025.8.31
 - pkg:pypi/brainx@2025.9.13
 - pkg:pypi/brainx@2025.9.15
+- pkg:pypi/brainx@2026.1.16
+- pkg:pypi/brainx@2026.1.17
+- pkg:pypi/brainx@2026.1.18
+- pkg:pypi/brainx@2026.1.19
+- pkg:pypi/brainx@2026.1.21
+- pkg:pypi/brainx@2026.1.22
+- pkg:pypi/brainx@2026.1.27
+- pkg:pypi/brainx@2026.1.31
