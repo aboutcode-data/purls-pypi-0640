@@ -34,3 +34,6 @@
 - pkg:pypi/appsignal@1.5.4
 - pkg:pypi/appsignal@1.6.0
 - pkg:pypi/appsignal@1.6.1
+- pkg:pypi/appsignal@1.6.2
+- pkg:pypi/appsignal@1.6.3
+- pkg:pypi/appsignal@1.6.4
