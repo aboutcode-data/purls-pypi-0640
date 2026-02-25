@@ -1,3 +1,4 @@
 - pkg:pypi/adafruit-circuitpython-bmp5xx@1.0.0
 - pkg:pypi/adafruit-circuitpython-bmp5xx@1.0.1
 - pkg:pypi/adafruit-circuitpython-bmp5xx@1.1.0
+- pkg:pypi/adafruit-circuitpython-bmp5xx@1.1.1

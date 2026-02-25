@@ -16,3 +16,5 @@
 - pkg:pypi/actinia-core@6.0.1
 - pkg:pypi/actinia-core@7.0.0
 - pkg:pypi/actinia-core@7.0.1
+- pkg:pypi/actinia-core@7.0.2
+- pkg:pypi/actinia-core@7.1.0

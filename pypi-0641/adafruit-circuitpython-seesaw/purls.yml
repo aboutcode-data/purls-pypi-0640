@@ -34,6 +34,8 @@
 - pkg:pypi/adafruit-circuitpython-seesaw@1.16.6
 - pkg:pypi/adafruit-circuitpython-seesaw@1.16.7
 - pkg:pypi/adafruit-circuitpython-seesaw@1.16.8
+- pkg:pypi/adafruit-circuitpython-seesaw@1.17.0
+- pkg:pypi/adafruit-circuitpython-seesaw@1.18.0
 - pkg:pypi/adafruit-circuitpython-seesaw@1.2.1
 - pkg:pypi/adafruit-circuitpython-seesaw@1.2.2
 - pkg:pypi/adafruit-circuitpython-seesaw@1.2.3
