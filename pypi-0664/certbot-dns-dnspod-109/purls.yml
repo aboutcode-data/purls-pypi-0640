@@ -1,3 +1,4 @@
 - pkg:pypi/certbot-dns-dnspod-109@1.0.0
 - pkg:pypi/certbot-dns-dnspod-109@1.0.1
 - pkg:pypi/certbot-dns-dnspod-109@1.0.2
+- pkg:pypi/certbot-dns-dnspod-109@1.0.3

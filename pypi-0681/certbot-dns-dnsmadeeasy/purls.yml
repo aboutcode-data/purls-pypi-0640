@@ -106,3 +106,5 @@
 - pkg:pypi/certbot-dns-dnsmadeeasy@5.1.0
 - pkg:pypi/certbot-dns-dnsmadeeasy@5.2.1
 - pkg:pypi/certbot-dns-dnsmadeeasy@5.2.2
+- pkg:pypi/certbot-dns-dnsmadeeasy@5.3.0
+- pkg:pypi/certbot-dns-dnsmadeeasy@5.3.1
