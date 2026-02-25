@@ -22,3 +22,5 @@
 - pkg:pypi/chaine@3.11.0
 - pkg:pypi/chaine@3.12.1
 - pkg:pypi/chaine@3.13.1
+- pkg:pypi/chaine@4.0.0b2
+- pkg:pypi/chaine@4.0.0b4

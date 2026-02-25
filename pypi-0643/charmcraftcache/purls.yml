@@ -34,3 +34,6 @@
 - pkg:pypi/charmcraftcache@0.6.5
 - pkg:pypi/charmcraftcache@0.7.0
 - pkg:pypi/charmcraftcache@0.8.0
+- pkg:pypi/charmcraftcache@0.8.1
+- pkg:pypi/charmcraftcache@0.8.2
+- pkg:pypi/charmcraftcache@0.8.3

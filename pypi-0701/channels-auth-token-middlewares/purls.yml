@@ -2,3 +2,5 @@
 - pkg:pypi/channels-auth-token-middlewares@1.0.1
 - pkg:pypi/channels-auth-token-middlewares@1.1.0
 - pkg:pypi/channels-auth-token-middlewares@1.2.0
+- pkg:pypi/channels-auth-token-middlewares@1.3.0
+- pkg:pypi/channels-auth-token-middlewares@1.3.1
