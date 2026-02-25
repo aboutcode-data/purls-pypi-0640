@@ -26,6 +26,8 @@
 - pkg:pypi/asynkit@0.17.1
 - pkg:pypi/asynkit@0.17.2
 - pkg:pypi/asynkit@0.17.3
+- pkg:pypi/asynkit@0.17.5
+- pkg:pypi/asynkit@0.17.6
 - pkg:pypi/asynkit@0.2.0
 - pkg:pypi/asynkit@0.3.0
 - pkg:pypi/asynkit@0.4.0
