@@ -14,3 +14,5 @@
 - pkg:pypi/cel-bind@0.6.0
 - pkg:pypi/cel-bind@0.8.0
 - pkg:pypi/cel-bind@0.8.1
+- pkg:pypi/cel-bind@0.8.2
+- pkg:pypi/cel-bind@0.8.4
