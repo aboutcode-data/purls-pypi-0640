@@ -56,6 +56,11 @@
 - pkg:pypi/bosa-server-plugins-binary@0.14.3
 - pkg:pypi/bosa-server-plugins-binary@0.14.4
 - pkg:pypi/bosa-server-plugins-binary@0.14.5
+- pkg:pypi/bosa-server-plugins-binary@0.14.6
+- pkg:pypi/bosa-server-plugins-binary@0.14.7
+- pkg:pypi/bosa-server-plugins-binary@0.14.7b1
+- pkg:pypi/bosa-server-plugins-binary@0.14.8
+- pkg:pypi/bosa-server-plugins-binary@0.14.9
 - pkg:pypi/bosa-server-plugins-binary@0.6.0
 - pkg:pypi/bosa-server-plugins-binary@0.7.0
 - pkg:pypi/bosa-server-plugins-binary@0.7.1
