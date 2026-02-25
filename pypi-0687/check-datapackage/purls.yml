@@ -2,3 +2,12 @@
 - pkg:pypi/check-datapackage@0.23.1
 - pkg:pypi/check-datapackage@0.24.0
 - pkg:pypi/check-datapackage@0.25.0
+- pkg:pypi/check-datapackage@0.26.0
+- pkg:pypi/check-datapackage@0.26.1
+- pkg:pypi/check-datapackage@0.26.2
+- pkg:pypi/check-datapackage@0.26.3
+- pkg:pypi/check-datapackage@0.26.4
+- pkg:pypi/check-datapackage@0.27.0
+- pkg:pypi/check-datapackage@0.28.0
+- pkg:pypi/check-datapackage@0.29.0
+- pkg:pypi/check-datapackage@0.30.0

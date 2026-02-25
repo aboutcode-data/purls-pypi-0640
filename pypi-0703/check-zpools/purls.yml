@@ -33,3 +33,8 @@
 - pkg:pypi/check-zpools@3.5.0
 - pkg:pypi/check-zpools@3.6.0
 - pkg:pypi/check-zpools@3.6.1
+- pkg:pypi/check-zpools@3.6.2
+- pkg:pypi/check-zpools@3.6.3
+- pkg:pypi/check-zpools@3.7.0
+- pkg:pypi/check-zpools@3.7.1
+- pkg:pypi/check-zpools@3.7.3
