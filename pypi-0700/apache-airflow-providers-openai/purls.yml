@@ -37,4 +37,7 @@
 - pkg:pypi/apache-airflow-providers-openai@1.6.4rc1
 - pkg:pypi/apache-airflow-providers-openai@1.7.0
 - pkg:pypi/apache-airflow-providers-openai@1.7.0rc1
+- pkg:pypi/apache-airflow-providers-openai@1.7.1
 - pkg:pypi/apache-airflow-providers-openai@1.7.1rc1
+- pkg:pypi/apache-airflow-providers-openai@1.7.2
+- pkg:pypi/apache-airflow-providers-openai@1.7.2rc1

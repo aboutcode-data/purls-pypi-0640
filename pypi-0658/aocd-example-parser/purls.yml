@@ -12,6 +12,8 @@
 - pkg:pypi/aocd-example-parser@2024.12.24
 - pkg:pypi/aocd-example-parser@2024.12.25
 - pkg:pypi/aocd-example-parser@2025.12.1
+- pkg:pypi/aocd-example-parser@2025.12.11
+- pkg:pypi/aocd-example-parser@2025.12.12
 - pkg:pypi/aocd-example-parser@2025.12.4
 - pkg:pypi/aocd-example-parser@2025.12.8
 - pkg:pypi/aocd-example-parser@2025.12.9
