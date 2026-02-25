@@ -84,6 +84,7 @@
 - pkg:pypi/awsebcli@3.25.1
 - pkg:pypi/awsebcli@3.25.2
 - pkg:pypi/awsebcli@3.25.3
+- pkg:pypi/awsebcli@3.26
 - pkg:pypi/awsebcli@3.3
 - pkg:pypi/awsebcli@3.3.1
 - pkg:pypi/awsebcli@3.3.2

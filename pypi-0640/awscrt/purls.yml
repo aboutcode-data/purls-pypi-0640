@@ -160,6 +160,10 @@
 - pkg:pypi/awscrt@0.29.2
 - pkg:pypi/awscrt@0.3.1
 - pkg:pypi/awscrt@0.3.3
+- pkg:pypi/awscrt@0.30.0
+- pkg:pypi/awscrt@0.31.0
+- pkg:pypi/awscrt@0.31.1
+- pkg:pypi/awscrt@0.31.2
 - pkg:pypi/awscrt@0.5.1
 - pkg:pypi/awscrt@0.5.11
 - pkg:pypi/awscrt@0.5.12
