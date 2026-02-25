@@ -1,0 +1,5 @@
+- pkg:pypi/clickhouse-mysql@0.0.20180321
+- pkg:pypi/clickhouse-mysql@0.0.20190821
+- pkg:pypi/clickhouse-mysql@0.0.20190903
+- pkg:pypi/clickhouse-mysql@0.0.20190904
+- pkg:pypi/clickhouse-mysql@0.0.20200128
