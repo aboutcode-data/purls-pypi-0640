@@ -1,3 +1,4 @@
+- pkg:pypi/azure-template@0.0.0
 - pkg:pypi/azure-template@0.0.1
 - pkg:pypi/azure-template@0.0.10
 - pkg:pypi/azure-template@0.0.11
@@ -248,6 +249,14 @@
 - pkg:pypi/azure-template@0.1.0b5251943
 - pkg:pypi/azure-template@0.1.0b5252769
 - pkg:pypi/azure-template@0.1.0b5253182
+- pkg:pypi/azure-template@0.1.0b5667162
+- pkg:pypi/azure-template@0.1.0b5803890
+- pkg:pypi/azure-template@0.1.0b5809549
+- pkg:pypi/azure-template@0.1.0b5810555
+- pkg:pypi/azure-template@0.1.0b5814458
+- pkg:pypi/azure-template@0.1.0b5815188
+- pkg:pypi/azure-template@0.1.0b5891221
+- pkg:pypi/azure-template@0.1.0b5894846
 - pkg:pypi/azure-template@0.1.0b6
 - pkg:pypi/azure-template@0.1.0b625234
 - pkg:pypi/azure-template@0.1.0b625287
