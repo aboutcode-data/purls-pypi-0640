@@ -35,6 +35,11 @@
 - pkg:pypi/ag-ui-langgraph@0.0.22a0
 - pkg:pypi/ag-ui-langgraph@0.0.22a1
 - pkg:pypi/ag-ui-langgraph@0.0.22a2
+- pkg:pypi/ag-ui-langgraph@0.0.23
+- pkg:pypi/ag-ui-langgraph@0.0.23a0
+- pkg:pypi/ag-ui-langgraph@0.0.24
+- pkg:pypi/ag-ui-langgraph@0.0.24a0
+- pkg:pypi/ag-ui-langgraph@0.0.25
 - pkg:pypi/ag-ui-langgraph@0.0.3
 - pkg:pypi/ag-ui-langgraph@0.0.4
 - pkg:pypi/ag-ui-langgraph@0.0.4a0
