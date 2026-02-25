@@ -76,3 +76,6 @@
 - pkg:pypi/aio-request@0.2.5
 - pkg:pypi/aio-request@0.2.6
 - pkg:pypi/aio-request@0.2.6a1
+- pkg:pypi/aio-request@0.2.7
+- pkg:pypi/aio-request@0.2.8
+- pkg:pypi/aio-request@0.2.9

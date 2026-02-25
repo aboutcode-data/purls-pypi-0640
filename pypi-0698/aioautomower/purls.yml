@@ -28,6 +28,8 @@
 - pkg:pypi/aioautomower@2.7.0
 - pkg:pypi/aioautomower@2.7.0b0
 - pkg:pypi/aioautomower@2.7.1
+- pkg:pypi/aioautomower@2.7.2
+- pkg:pypi/aioautomower@2.7.3
 - pkg:pypi/aioautomower@2021.10.0
 - pkg:pypi/aioautomower@2021.10.1
 - pkg:pypi/aioautomower@2021.10.2
