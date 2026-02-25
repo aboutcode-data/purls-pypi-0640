@@ -5,6 +5,11 @@
 - pkg:pypi/cardonnay@0.2.0
 - pkg:pypi/cardonnay@0.2.1
 - pkg:pypi/cardonnay@0.2.10
+- pkg:pypi/cardonnay@0.2.11
+- pkg:pypi/cardonnay@0.2.12
+- pkg:pypi/cardonnay@0.2.13
+- pkg:pypi/cardonnay@0.2.14
+- pkg:pypi/cardonnay@0.2.15
 - pkg:pypi/cardonnay@0.2.2
 - pkg:pypi/cardonnay@0.2.3
 - pkg:pypi/cardonnay@0.2.4
