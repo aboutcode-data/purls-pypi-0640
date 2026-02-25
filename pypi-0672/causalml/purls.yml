@@ -14,6 +14,7 @@
 - pkg:pypi/causalml@0.15.3
 - pkg:pypi/causalml@0.15.4
 - pkg:pypi/causalml@0.15.5
+- pkg:pypi/causalml@0.16.0
 - pkg:pypi/causalml@0.2.0
 - pkg:pypi/causalml@0.2.1
 - pkg:pypi/causalml@0.2.2

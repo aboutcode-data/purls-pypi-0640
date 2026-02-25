@@ -16,6 +16,9 @@
 - pkg:pypi/cassia@0.3.12
 - pkg:pypi/cassia@0.3.13
 - pkg:pypi/cassia@0.3.14
+- pkg:pypi/cassia@0.3.16
+- pkg:pypi/cassia@0.3.17
+- pkg:pypi/cassia@0.3.18
 - pkg:pypi/cassia@0.3.2
 - pkg:pypi/cassia@0.3.3
 - pkg:pypi/cassia@0.3.4

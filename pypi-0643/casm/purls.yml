@@ -1,4 +1,7 @@
 - pkg:pypi/casm@0.10
+- pkg:pypi/casm@0.10.1
+- pkg:pypi/casm@0.10.2
+- pkg:pypi/casm@0.10.3
 - pkg:pypi/casm@0.2
 - pkg:pypi/casm@0.3
 - pkg:pypi/casm@0.4
