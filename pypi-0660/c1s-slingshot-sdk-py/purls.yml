@@ -6,3 +6,7 @@
 - pkg:pypi/c1s-slingshot-sdk-py@0.7.0
 - pkg:pypi/c1s-slingshot-sdk-py@1.0.0
 - pkg:pypi/c1s-slingshot-sdk-py@1.1.0
+- pkg:pypi/c1s-slingshot-sdk-py@1.2.1
+- pkg:pypi/c1s-slingshot-sdk-py@1.2.2
+- pkg:pypi/c1s-slingshot-sdk-py@2.0.0
+- pkg:pypi/c1s-slingshot-sdk-py@2.1.0

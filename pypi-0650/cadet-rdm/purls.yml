@@ -47,3 +47,5 @@
 - pkg:pypi/cadet-rdm@0.1.8
 - pkg:pypi/cadet-rdm@1.0.0
 - pkg:pypi/cadet-rdm@1.0.1
+- pkg:pypi/cadet-rdm@1.1.1
+- pkg:pypi/cadet-rdm@1.1.2

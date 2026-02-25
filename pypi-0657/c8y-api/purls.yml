@@ -49,3 +49,11 @@
 - pkg:pypi/c8y-api@3.5.1
 - pkg:pypi/c8y-api@3.5.1b1
 - pkg:pypi/c8y-api@3.5.2b1
+- pkg:pypi/c8y-api@3.5.2b2
+- pkg:pypi/c8y-api@3.5.2b3
+- pkg:pypi/c8y-api@3.6.0
+- pkg:pypi/c8y-api@3.7.0
+- pkg:pypi/c8y-api@3.7.1
+- pkg:pypi/c8y-api@3.7.1a1
+- pkg:pypi/c8y-api@3.7.1a2
+- pkg:pypi/c8y-api@3.7.2b1
