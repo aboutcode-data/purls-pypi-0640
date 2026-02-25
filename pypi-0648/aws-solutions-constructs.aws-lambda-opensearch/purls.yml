@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.26.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.27.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.28.0
@@ -84,3 +86,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-opensearch@2.99.0
