@@ -100,3 +100,9 @@
 - pkg:pypi/arcticdb@6.2.6
 - pkg:pypi/arcticdb@6.3.1
 - pkg:pypi/arcticdb@6.3.2
+- pkg:pypi/arcticdb@6.5.0
+- pkg:pypi/arcticdb@6.6.0
+- pkg:pypi/arcticdb@6.7.0
+- pkg:pypi/arcticdb@6.8.0
+- pkg:pypi/arcticdb@6.9.0
+- pkg:pypi/arcticdb@6.9.2
