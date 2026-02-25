@@ -193,7 +193,13 @@
 - pkg:pypi/chisel@1.9.16
 - pkg:pypi/chisel@1.9.17
 - pkg:pypi/chisel@1.9.18
+- pkg:pypi/chisel@1.9.19
 - pkg:pypi/chisel@1.9.2
+- pkg:pypi/chisel@1.9.20
+- pkg:pypi/chisel@1.9.21
+- pkg:pypi/chisel@1.9.22
+- pkg:pypi/chisel@1.9.23
+- pkg:pypi/chisel@1.9.24
 - pkg:pypi/chisel@1.9.3
 - pkg:pypi/chisel@1.9.4
 - pkg:pypi/chisel@1.9.5

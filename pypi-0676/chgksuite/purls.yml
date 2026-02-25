@@ -67,6 +67,16 @@
 - pkg:pypi/chgksuite@0.26.0b8
 - pkg:pypi/chgksuite@0.26.0b9
 - pkg:pypi/chgksuite@0.26.1
+- pkg:pypi/chgksuite@0.27.0
+- pkg:pypi/chgksuite@0.27.0b1
+- pkg:pypi/chgksuite@0.27.0b3
+- pkg:pypi/chgksuite@0.27.0b4
+- pkg:pypi/chgksuite@0.27.0b5
+- pkg:pypi/chgksuite@0.27.1
+- pkg:pypi/chgksuite@0.27.2
+- pkg:pypi/chgksuite@0.28.0
+- pkg:pypi/chgksuite@0.28.1
+- pkg:pypi/chgksuite@0.28.2
 - pkg:pypi/chgksuite@0.6.0
 - pkg:pypi/chgksuite@0.6.1
 - pkg:pypi/chgksuite@0.6.2
