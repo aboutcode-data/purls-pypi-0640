@@ -21,3 +21,6 @@
 - pkg:pypi/apminsight@1.6.1
 - pkg:pypi/apminsight@1.6.2
 - pkg:pypi/apminsight@1.7.0
+- pkg:pypi/apminsight@1.7.3
+- pkg:pypi/apminsight@1.7.4
+- pkg:pypi/apminsight@1.8.0
